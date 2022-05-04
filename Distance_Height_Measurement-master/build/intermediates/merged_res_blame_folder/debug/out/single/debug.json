@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_hor.jpg.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/hor.jpg"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/layout_calibrate.xml.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/layout/calibrate.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_ver.jpg.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/ver.jpg"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_lines2.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/lines2.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_cross_2.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/cross_2.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/layout-land_fragment_camera2_basic.xml.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/layout-land/fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_lines3.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/lines3.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/layout_activity_camera.xml.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_lines.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/lines.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_cross_1.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/cross_1.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_cross_3.gif.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/cross_3.gif"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/layout_fragment_camera2_basic.xml.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/layout/fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xxhdpi_lines1.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xxhdpi/lines1.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/drawable-xhdpi/ic_action_info.png"
+    }
+]

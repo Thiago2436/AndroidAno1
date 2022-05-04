@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:3:1-31:12
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:3:1-31:12
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:3:1-31:12
+	package
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:12:19-67
+application
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:14:5-29:19
+	android:screenOrientation
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:19:9-45
+	android:label
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:18:9-41
+	android:configChanges
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:16:9-44
+	android:allowBackup
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:20:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:22:9-28:20
+	android:label
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:23:19-51
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:22:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+		ADDED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml

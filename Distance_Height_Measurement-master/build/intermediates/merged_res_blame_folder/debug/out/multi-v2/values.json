@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "645",
+                        "endColumns": "95",
+                        "endOffsets": "736"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "1133",
+                        "endColumns": "94",
+                        "endOffsets": "1223"
+                    }
+                },
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "646",
+                        "endColumns": "54",
+                        "endOffsets": "696"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "20,19,17,18,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "896,813,679,729,645",
+                        "endColumns": "31,82,49,83,33",
+                        "endOffsets": "923,891,724,808,674"
+                    },
+                    "to": {
+                        "startLines": "10,12,13,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "465,547,630,964,1048",
+                        "endColumns": "31,82,49,83,33",
+                        "endOffsets": "492,625,675,1043,1077"
+                    }
+                },
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "110,180,223,267,312,355,397",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "175,218,262,307,350,392,460"
+                    }
+                },
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "26,28,29,30,31,35",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1082,1228,1288,1341,1368,1564",
+                        "endLines": "26,28,29,30,34,40",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1128,1283,1336,1363,1559,1837"
+                    }
+                },
+                {
+                    "source": "/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "647,697",
+                        "endLines": "18,28",
+                        "endColumns": "49,13",
+                        "endOffsets": "692,976"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "497,680",
+                        "endLines": "11,23",
+                        "endColumns": "49,13",
+                        "endOffsets": "542,959"
+                    }
+                }
+            ]
+        }
+    ]
+}

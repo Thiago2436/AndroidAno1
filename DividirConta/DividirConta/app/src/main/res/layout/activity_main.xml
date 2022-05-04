@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edtValorConta"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:hint="Valor Conta"
+        android:inputType="numberDecimal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edtQtdPessoas"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:hint="Qtd. Pessoas"
+        android:inputType="number"
+        app:layout_constraintStart_toEndOf="@+id/edtValorConta"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edtServico"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="% Serviço"
+        android:inputType="numberDecimal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtValorConta" />
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Calcular Divisão"
+        app:layout_constraintStart_toStartOf="@+id/edtQtdPessoas"
+        app:layout_constraintTop_toBottomOf="@+id/edtQtdPessoas" />
+
+    <TextView
+        android:id="@+id/txtValorPessoa"
+        android:layout_width="360dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="68dp"
+        android:text="Conta/Pessoa: R$ 0,00"
+        android:textAlignment="textEnd"
+        android:textColor="#4CAF50"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtServico" />
+
+    <TextView
+        android:id="@+id/txtServicoPessoa"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Serviço/Pessoa: R$ 0,00"
+        android:textAlignment="textEnd"
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/txtValorPessoa"
+        app:layout_constraintTop_toBottomOf="@+id/txtValorPessoa" />
+
+    <TextView
+        android:id="@+id/txtTotalPessoa"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Total/Pessoa: R$ 0,00"
+        android:textAlignment="textEnd"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/txtServicoPessoa"
+        app:layout_constraintTop_toBottomOf="@+id/txtServicoPessoa" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

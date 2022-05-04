@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.camera2basic" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:6:5-66
+9-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:6:22-64
+10    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+10-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:7:5-81
+10-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:7:22-78
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:8:5-79
+11-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:8:22-76
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:9:5-65
+12-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:9:22-62
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:11:5-60
+14-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:11:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:12:5-70
+15-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:12:19-67
+16
+17    <application
+17-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:14:5-29:19
+18        android:allowBackup="true"
+18-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:15:9-35
+19        android:configChanges="orientation"
+19-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:16:9-44
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:label="@string/app_name"
+22-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:18:9-41
+23        android:screenOrientation="portrait"
+23-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:19:9-45
+24        android:theme="@style/MaterialTheme" >
+24-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:20:9-45
+25        <activity
+25-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:22:9-28:20
+26            android:name="com.example.android.camera2basic.CameraActivity"
+26-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:22:19-49
+27            android:label="@string/app_name" >
+27-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:23:19-51
+28            <intent-filter>
+28-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:24:13-27:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:25:17-69
+29-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:25:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:26:17-77
+31-->/home/thiago/AndroidStudioProjects/Distance_Height_Measurement-master/src/main/AndroidManifest.xml:26:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

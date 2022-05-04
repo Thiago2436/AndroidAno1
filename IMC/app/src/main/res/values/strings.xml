@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="imc" />
+    <string name="peso_ex_82_3_kg" />
+    <string name="altura_ex_1_79_m" />
+    <string name="calcular" />
+</resources>

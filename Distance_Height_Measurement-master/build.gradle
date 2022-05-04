@@ -1,0 +1,32 @@
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+
+    }
+
+    dependencies {
+        classpath "com.android.tools.build:gradle:7.0.0"
+
+    }
+}
+
+apply plugin: 'com.android.application'
+
+
+
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        minSdkVersion 23
+        targetSdkVersion 30
+    }
+
+
+
+
+}
